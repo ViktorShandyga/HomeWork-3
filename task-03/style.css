@@ -1,0 +1,13 @@
+.title {
+  background-color: #104b4d;
+  color: white;
+  padding: 20px 60px;
+  margin: 0;
+}
+.text {
+  background-color: #246067;
+  color: white;
+  padding: 25px;
+  margin: 0;
+  margin-bottom: 20px;
+}

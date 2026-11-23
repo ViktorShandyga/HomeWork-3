@@ -1,0 +1,20 @@
+.level1 {
+  list-style-type: upper-roman;
+}
+.level2 {
+  list-style-type: decimal;
+}
+.level3 {
+  list-style-type: lower-latin;
+}
+li::marker {
+  font-weight: bold;
+}
+
+li {
+  color: #526b9a;
+}
+
+li::marker {
+  color: black;
+}
